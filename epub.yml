@@ -1,0 +1,17 @@
+---
+# see https://pandoc.org/MANUAL.html#epub-metadata
+title:
+- type: main
+  text: History of Dayton, Ohio
+- type: subtitle
+  text: with Portraits and Biographical Sketches of Some of Its Pioneer and Prominant Citi
+creator:
+  - role: author
+    text: Harvey W. Crew
+identifier:
+  - scheme: ISBN-13
+    text: # ISBN-13:
+publisher: United Brethren Publishing
+rights: Copyright © 1889 Harvey W. Crew, All Rights Reserved
+lang: en-US
+---

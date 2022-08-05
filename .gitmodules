@@ -1,0 +1,3 @@
+[submodule "novel-builder"]
+	path = novel-builder
+	url = git@github.com:jechasteen/novel-builder.git
